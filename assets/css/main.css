@@ -1,0 +1,125 @@
+body{
+	margin: 0px;
+}
+
+#title{
+	background-color: #FFA04C;
+  color: #fff;
+  text-align: right;
+  height: 161px;
+  
+
+
+}
+.titulo{
+  padding-top: 40px;
+  font-family: arial;
+  margin-right: 20px;
+  font-size: 40px;
+}
+
+h6{
+  font-family: arial;
+  margin-right: 20px;
+  padding-top: 30px;
+  font-size: 20px;
+}
+.panda1{
+	background-image: url(../img/uno.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+  height: 600px;
+  filter: grayscale(100%);
+}
+
+.block1{
+  height: 600px;
+  width: 100%;
+  background-color:#44E597;
+  border-top: 20px solid #FFA04C;
+  border-bottom: 20px solid #FFA04C;
+  text-align: center;
+}
+
+.block2{
+  height: 400px;
+  width: 50%;
+  background-color: #FFA04C;
+  margin-top: 55px;
+  display: inline-block;
+}
+
+h3{
+  color: #fff;
+  text-align: center;
+  margin-top: 40px;
+  font-family: arial;
+}
+
+h5{
+  color: #fff;
+  text-align: center;
+  margin-top: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+.block3{
+  margin: 0px;
+}
+
+.panda2{
+  width: 100%;
+  filter: grayscale(100%);
+}
+
+.col-12{
+  padding: 0px;
+}
+
+.block4{
+  margin-top: 9px;
+  width: 100%;
+  background-color: #44E597;
+  border-top: 20px solid #FFA04C;
+  border-bottom: 20px solid #FFA04C;
+  text-align: center;
+}
+
+.col-12.unos{
+  height: 834px;
+}
+
+h2{
+  padding-top: 60px;
+  padding-bottom: 30px;
+  font-family: arial;
+  color: #fff;
+}
+
+.panda3{
+  margin-right: 30px;
+  border: 10px solid white;
+}
+
+.col-3.p1{
+  width: 100%;
+  padding-bottom: 70px;
+}
+
+.col-12.dos{
+  height: 759px;
+}
+
+.block6{
+  background-color: #FFA04C;
+  color: #fff;
+  text-align: right;
+  height: 50px;
+}
+
+.last{
+  text-align: right;
+}
